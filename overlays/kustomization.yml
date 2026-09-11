@@ -15,4 +15,4 @@ patches : # what resource will be changed
     metadata:
       name: nginx-deployment
     spec:
-      replicas: 2
+      replicas: 4
